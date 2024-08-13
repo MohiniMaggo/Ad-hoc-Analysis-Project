@@ -29,7 +29,7 @@ Analyses Conducted
      - Net Error
      - Net Error Percent
 
-###Skills Enhanced
+### Skills Enhanced
 - **Data Extraction:** Enhanced ability to extract and integrate necessary information from multiple tables using advanced SQL joins.
 - **Data Visualization:** Developed proficiency in selecting and using the most appropriate charts and visualizations to effectively represent insights.
 - **Ad-Hoc Analysis:** Gained a deeper understanding of the importance of ad-hoc analysis in delivering timely, specific insights that drive informed decision-making, bypassing the need for routine reports.
